@@ -10,9 +10,10 @@ const BankiRU = require('bankiru');
 const bankiru = new BankiRU('tcs')
 
 bankiru.getResponses()
-    .then(responses => console.log(responses))
+  .then(r => console.log(r))
 
-bankiru.getResponses()
+//using pagination
+bankiru.getResponses(2)
   .then(r => console.log(r))
 
 //returns
@@ -36,10 +37,4 @@ bankiru.getResponses()
     },
     ...
   ]
-}
-
-//using pagination
-bankiru.getResponses(2)
-  .then(r => console.log(r))
-
 ```
