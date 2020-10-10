@@ -1,7 +1,7 @@
 {
   "name": "bankiru",
   "description": "get responses from Banki.ru",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "https://github.com/iprxy/bankiru",
   "author": {
     "name": "iprxy",
