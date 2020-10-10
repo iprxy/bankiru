@@ -1,8 +1,8 @@
 {
-  "name": "bankiRU",
+  "name": "bankiru",
   "description": "get responses from Banki.ru",
   "version": "0.1.0",
-  "homepage": "https://github.com/iprxy/bankiRU",
+  "homepage": "https://github.com/iprxy/bankiru",
   "author": {
     "name": "iprxy",
     "email": "i@iprxy.me",
@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/iprxy/bankiRU.git"
+    "url": "git://github.com/iprxy/bankiru.git"
   },
   "bugs": {
-    "url": "https://github.com/iprxy/bankiRU/issues"
+    "url": "https://github.com/iprxy/bankiru/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/iprxy/bankiRU/blob/master/LICENSE-MIT"
+      "url": "https://github.com/iprxy/bankiru/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "lib/bankiRU",
+  "main": "lib/bankiru",
   "engines": {
     "node": ">= 0.8.0"
   },
