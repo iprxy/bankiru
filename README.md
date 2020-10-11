@@ -6,7 +6,7 @@ get responses from Banki.ru
 Install the module with: `npm install bankiru`
 
 ```javascript
-const BankiRU = require('bankiru');
+const BankiRU = require('bankiru')
 const bankiru = new BankiRU('tcs')
 
 bankiru.getResponses()
