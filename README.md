@@ -37,4 +37,5 @@ bankiru.getResponses(2)
     },
     ...
   ]
+}
 ```
